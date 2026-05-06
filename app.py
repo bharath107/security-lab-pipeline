@@ -21,7 +21,7 @@ def home():
         <button type="submit">Ping Host</button>
     </form>
     '''
-
+# password:admin
 @app.route('/ping', methods=['POST'])
 def ping():
     """
