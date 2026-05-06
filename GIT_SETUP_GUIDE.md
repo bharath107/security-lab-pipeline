@@ -100,10 +100,4 @@ git remote set-url origin git@github.com:USERNAME/security-lab-pipeline.git
 
 ---
 
-## Interview Gold 🎯
 
-Once this is on GitHub, you can say:
-
-**"This is a lab environment I built to demonstrate security automation. The Flask app has an intentional Command Injection vulnerability. When I push code, the GitHub Actions pipeline automatically runs Bandit, Trivy, and pip-audit. The pipeline catches the vulnerability and blocks the merge. This shows I understand the full lifecycle of securing code."**
-
-Then share your GitHub link.
