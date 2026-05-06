@@ -103,4 +103,3 @@ result = subprocess.run(
 
 ---
 
-**Made for Security Engineering interviews** 🔒
